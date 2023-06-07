@@ -1,0 +1,3 @@
+[submodule "Report"]
+	path = Report
+	url = git@github.com:JosefUtbult/Master-Thesis-Report.git
